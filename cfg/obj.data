@@ -1,0 +1,5 @@
+classes= 14  
+train  = /notebooks/darknet/train.txt  
+valid  = /notebooks/darknet/test.txt  
+names = /notebooks/darknet/cfg/obj.names  
+backup = /notebooks/darknet/backup/

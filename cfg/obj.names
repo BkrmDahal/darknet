@@ -1,0 +1,14 @@
+company_name
+company_address
+date
+invoice_no
+tax_no
+line_item_header
+line_item
+grand_total_label
+grand_total_value
+currency
+tax_label
+tax_value
+discount_percent
+discount_amount
